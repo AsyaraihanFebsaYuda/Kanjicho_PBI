@@ -1,3 +1,8 @@
+## Quality Assurance (QA) & Testing Environment
+Repositori fork ini dikelola secara khusus untuk aktivitas *Quality Assurance*, pelacakan *bug*, audit UI/UX, dan dokumentasi evaluasi.
+- **Tested Live Environment:** [new-kanjicho.vercel.app](https://new-kanjicho.vercel.app/)
+- **Test Reports & Tickets:** Seluruh laporan temuan UI, diskusi *business logic* (penjadwalan SRS), dan evaluasi fitur dapat dilihat pada tab **Issues**.
+
 # Kanjichō (漢字帳) — JLPT Kanji Practice PWA
 
 A JLPT kanji study app (N5–N1): 15-question reading quizzes per unit, an
